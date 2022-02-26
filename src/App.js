@@ -1,14 +1,13 @@
 // import logo from './logo.svg';
 import './App.css';
-import'./todolist.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import ToDoList from './Components/TodoList';
+import ToDoListPage from './Pages/TodoListPage';
 
 
 function App() {
   return (
    <>
-     <ToDoList/>
+     <ToDoListPage/>
    </>
   );
 }
