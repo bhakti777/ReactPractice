@@ -27,6 +27,7 @@ const handleSubmit=(submit)=>{
 
   return (
     <Fragment>
+      <div className="reg-bgImg">
       <Container fluid className="Container-regform">
           <h2 className="Heading">Registration Form</h2>
           
@@ -97,6 +98,7 @@ const handleSubmit=(submit)=>{
 
         </Form>
       </Container>
+      </div>
     </Fragment>
   );
 };

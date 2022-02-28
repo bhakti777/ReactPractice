@@ -55,10 +55,18 @@
     margin-bottom: 30px;
 }
 
-
+/*  */
 .Container-regform{
   width: 600px;
-  margin-top: 30px;
-  background-color: lightskyblue;
-  padding: 20px 10px 20px 10px;
+  margin-top: 10px;
+  padding: 20px 10px 40px 10px;
+  border:1px solid #282c34;
+  background-color: white;
+}
+.reg-bgImg{
+  background-image:url('E:\BHAKTI\AK ReactClass\React\to-do-list\src\Pages\images.jpg') ;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
