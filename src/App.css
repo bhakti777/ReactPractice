@@ -64,9 +64,13 @@
   background-color: white;
 }
 .reg-bgImg{
-  background-image:url('E:\BHAKTI\AK ReactClass\React\to-do-list\src\Pages\images.jpg') ;
+  background-image:url('E:\BHAKTI\AK ReactClass\React\to-do-list\src\Images\images.jpg') ;
   background-size: 100%;
   background-repeat: no-repeat;
   padding-top: 20px;
   padding-bottom: 20px;
+}
+
+.Container-IncDec{
+  margin-top: 100px;
 }
